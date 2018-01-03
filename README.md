@@ -6,6 +6,9 @@
 * Seq2Seq Tensorflow Tutorial : https://github.com/tensorflow/nmt
 * Creating a Chatbot with Deep Learning, Python, and TensorFlow by Sendex : http://bit.ly/2BvArzm
 * How to Use Tensorflow for Seq2seq Models (LIVE) by Siraj Raval : https://youtu.be/ElmBrKyMXxs
+* Chatbots with Seq2Seq by Suriyadeepan Ram : http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/
+
+
 
 
 
